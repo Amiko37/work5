@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000000;
+}
+header{
+    margin-top: 30px;
+    
+}
+
+h1{
+    float: left;
+    font-size: 16px;
+    padding-left: 35px;
+    margin-right: 950px;  
+    
+    
+}
+header li{
+    float: left;
+   margin: 0 0 20px 20px;
+}
+
+.hh a{
+        color:#ffffff;
+    }
+    ul li a{
+        color: #ffffff;
+    }
+.xazi{
+    width: 100%;
+    height: 1px;
+    background-color: #a1a1a1;
+    clear: both;   
+    }
+    .hh2{
+        font-size: 128px;
+        color: #ffffff;
+        letter-spacing: 100px;
+        margin-left: 150px;
+    }
+    main p{
+        margin-bottom: 10px;
+    }
+    
+    .mtavari1{
+        float: left;
+        width: 250px;
+        height: 98px;
+        margin: 50px 0 0 135px;
+        color: #ffffff;
+        
+        
+    }
+    
+    .mtavari2{
+        width: 115px;
+        height: 88px;
+        margin: 50px 0 0 200px;
+        color: #ffffff;
+        float: left;
+
+        
+    }
+    .pmtavari3{
+        float: left;
+        color: #ffffff;
+        width: 450px;
+        height: 238px;
+        margin: 50px 0 0 200px;
+        
+        
+        
+       
+      
+
+    }
+    .xazi3{
+    width: 100%;
+    height: 1px;
+    background-color: #a1a1a1;
+    clear: both;
+    margin: 20px 0 30px 0;
+    }
+    .statiaconteiner{
+       padding: 0px 45px;
+       
+    }
+    article .linki a{
+        color: #ffffff;
+        
+        
+    }
+    .boxi1{
+        width:33.33%;
+        float: left;
+        height: 700px;
+        
+        
+    }
+    .xazi5{
+    width: 100%;
+    height: 1px;
+    background-color:  #a1a1a1;
+    clear: both;
+    }
+    .cerili18{
+        font-size: 150px;
+        float: left;
+        color: #ffffff;
+    }
+    .certili20{
+        width: 5px;
+        padding-top: 60px;
+        float: left;
+        font-size: 35px;
+        color: #ffffff;
+    }
+    .modebilo1{
+        font-size: 25px;
+    }
+    
