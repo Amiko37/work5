@@ -25,11 +25,14 @@ header li{
     float: left;
    margin: 0 0 20px 20px;
 }
+.zdzd1{
+    font-weight: 900;
+}
 
 .hh a{
         color:#ffffff;
     }
-    ul li a{
+   ul li a{
         color: #ffffff;
     }
 .xazi{
@@ -73,11 +76,6 @@ header li{
         width: 450px;
         height: 238px;
         margin: 50px 0 0 200px;
-        
-        
-        
-       
-      
 
     }
     .xazi3{
@@ -111,17 +109,145 @@ header li{
     }
     .cerili18{
         font-size: 150px;
-        float: left;
         color: #ffffff;
+        float: left;
     }
     .certili20{
         width: 5px;
         padding-top: 60px;
-        float: left;
         font-size: 35px;
         color: #ffffff;
+        float: left;
+
+
     }
     .modebilo1{
         font-size: 25px;
+    }
+
+      /* -----  meore gverdis stilebi ----- */
+
+    
+        
+
+      ul li  { 
+        color: #ffffff;
+        
+        
+     }
+     .navigacia11{
+        margin: 50px 130px 0 0 ;
+        float: right;
+     }
+     .nn1{
+        font-weight: 900;
+     }
+     .nn2{
+        margin-top: 20px;
+        
+     }
+     .nn3{
+        margin-top: 20px;
+     }
+
+
+      .conteiner10{
+        width: 60%;
+        height: 700px;
+        margin: 35px 0px 0px 35px;
+        display: flex;
+        flex-wrap: wrap;
+       justify-content: space-around;
+       
+        
+    }
+    .conteiner50{
+        
+        width: 97%;
+        height: 700px;
+        display: flex;
+        flex-wrap: wrap;
+       justify-content: space-between;
+      
+
+    }
+    p{
+        color: #ffffff;
+        margin-left: 65px;
+        
+    }
+        
+
+
+
+
+        /* ----- mesame gverdis stilebi ----- */
+
+    .mtavari1000{
+        display: flex;
+        
+        
+    }
+        .poto17{
+        margin: 30px 0 30px 35px;
+        
+       
+    }
+    .konverti{
+        font-weight: 900;
+        margin-left: 65px;
+        
+    }
+    
+    .gagarin{
+        margin-top: 70px;
+        margin-left: 10px;
+
+       
+        
+    }
+   
+    
+    .mrtk50{
+      margin-top: 165px;
+      margin-left: 10px;
+      
+      
+        
+    }
+    .mr100{
+       width: 20px;
+       height: 20px;
+       border-radius: 50% 50%;
+       background-color: #F6B058;
+       float: left;
+       
+       
+    }
+    .mr101{
+        width: 20px;
+        height: 20px;
+        border-radius: 50% 50%;
+        background-color: #3E93F6;
+        float: left;
+        margin-left: 10px;
+    }
+    .mr102{
+        width: 20px;
+        height: 20px;
+        border-radius: 50% 50%;
+        background-color: #FF7070;
+        float: left;
+        margin-left: 10px;
+    }
+    .mr103{
+        width: 20px;
+        height: 20px;
+        border-radius: 50% 50%;
+        background-color: #E8E8E8;
+        float: left;
+        margin-left: 10px;
+        
+        
     }
     
